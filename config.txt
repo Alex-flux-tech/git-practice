@@ -1,3 +1,3 @@
-Server:app-01
-Port:9000
-Environment:staging
+Server: app-01
+Port: 9000
+Environment: staging
