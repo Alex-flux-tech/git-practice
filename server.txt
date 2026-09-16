@@ -1,4 +1,4 @@
 Server: web-01
-Port: 8080
+Port: 7000
 Environment: test
 Status: active
