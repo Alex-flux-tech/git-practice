@@ -1,2 +1,2 @@
-Monitoring enabled
+Monitoring enabled on SERVER-B
 Alerting enabled
