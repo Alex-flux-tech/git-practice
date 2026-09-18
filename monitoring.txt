@@ -2,4 +2,3 @@
 Monitoring enabled on SERVER-A
 Alerting enabled
 Metrics enabled
-DEBUG_MODE-true
